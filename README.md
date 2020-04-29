@@ -10,3 +10,4 @@ Awesome list about tech sites/services restricted for Cuba
 * [Graph Databases](https://graphdatabases.com)
 * [NVIDIA](http://www.nvidia.com/)
 * [Phoenix Framework](https://www.phoenixframework.org/)
+* [Oracle](https://www.oracle.com/)
